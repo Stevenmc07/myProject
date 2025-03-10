@@ -1,0 +1,10 @@
+Configuración del Proyecto.
+
+Parámetros de configuración clave del sistema:
+- Unidad base: Número de piezas compradas.
+- Factor de cálculo: Precio unitario por número de piezas.
+
+Variables importantes:
+- Porcentaje de inversión propia del cliente: 55% (si el monto excede $500000) / 70% (si el monto no excede $500000)
+- Porcentaje de préstamo bancario: 30% (solo si el monto excede $500000) / No se es necesario (si el monto no excede $500000)
+- Porcentaje de crédito al fabricante: Resto del porcentaje de monto total + 20% de interés de dicho resto.
